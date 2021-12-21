@@ -3,7 +3,7 @@
 
 ```bash
 #install dependencies
-$ pip install requirement
+$ pip install requirements.txt
 
 #running apps
 $ python app.py
